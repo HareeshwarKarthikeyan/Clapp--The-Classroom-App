@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "300989790928",
+    "firebase_url": "https://clapp-harry.firebaseio.com",
+    "project_id": "clapp-harry",
+    "storage_bucket": "clapp-harry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300989790928:android:32f948f47aadf1bf",
+        "android_client_info": {
+          "package_name": "com.harry.clapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300989790928-fd9fjaj817m6d5p40cd63g8hblqanc6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrAhYpJMFnZaAT143IGuqgnyt3rGszoMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
