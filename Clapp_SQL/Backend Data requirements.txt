@@ -1,0 +1,58 @@
+1.for a given uid display list of all the classes in which he is a member
+
+2.for a given cid display list of its student members
+
+3.for a given cid display list of its faculty members
+
+4.
+for a given cid retrieve password
+
+5.
+retrieve id and names of those who are not admins,nonadmins and all members
+retrieve id and name of all faculties of a class
+retrieve info of a given member/faculty
+
+
+6. insert query
+for a new user
+new user record with uid and email,for that uid enter profile and contact and name
+
+7. insert query
+in members
+	add creator's uid,make him admin 
+	add uid to user's classes
+
+8. insert query
+create new class
+
+9.
+get count of the number of records in the class table
+
+10. insert query
+create record for new class with cid,cname,password
+
+-for an existing class
+11.
+	check if the id exists
+	retrieve password 
+
+12. insert query
+	add uid to members and user's class.
+
+
+13.
+count of number of admins
+
+14.
+count of subjects available
+
+15.
+list of all subjects
+
+16.
+count of the number of documents for a given subject
+
+17.
+list of all document names and their download urls for a given subject
+
+
